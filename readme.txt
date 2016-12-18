@@ -1,2 +1,2 @@
-Git is a distributed vsrsion control system.
+Git is a distributed vsrsions control system.
 Git is free software
